@@ -1,0 +1,46 @@
+# Node
+node_modules/
+.env*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env*
+
+# Expo/React Native
+.expo/
+.expo-shared/
+web-build/
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Firebase
+firebase-debug.log
+
+# Misc
+*.sqlite3
+*.db
+*.bak
+*.tmp
+
+# Build
+build/
+dist/
+
+# Coverage
+coverage/
+
+# Others
+.idea/
+*.swp
+*.swo
+
+# Ignore generated files
+frontend/app.json.backup
